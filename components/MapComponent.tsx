@@ -8,7 +8,7 @@ const region = {
   latitude: 32.8035804,
   longitude: -117.2368829,
   latitudeDelta: 0.0922,
-  longitudeDelta: 0.0421
+  longitudeDelta: 0.0422
 }
 
 // TODO: https://docs.expo.io/versions/latest/sdk/map-view/#configuring-for-web
