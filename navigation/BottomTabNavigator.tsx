@@ -27,23 +27,23 @@ export default function BottomTabNavigator() {
       <BottomTab.Screen
         name="TabOne"
         component={TabOneNavigator}
-        // options={{
-        //   tabBarIcon: ({ color }) => <TabBarIcon name="ios-code" color={color} />,
-        // }}
+        options={{
+          tabBarIcon: ({ color }) => <TabBarIcon name="home-outline" color={color} />,
+        }}
       />
       <BottomTab.Screen
         name="TabTwo"
         component={TabTwoNavigator}
-        // options={{
-        //   tabBarIcon: ({ color }) => <TabBarIcon name="ios-code" color={color} />,
-        // }}
+        options={{
+          tabBarIcon: ({ color }) => <TabBarIcon name="navigate-outline" color={color} />,
+        }}
       />
       <BottomTab.Screen
         name="TabThree"
         component={TabThreeNavigator}
-        // options={{
-        //   tabBarIcon: ({ color }) => <TabBarIcon name="ios-code" color={color} />,
-        // }}
+        options={{
+          tabBarIcon: ({ color }) => <TabBarIcon name="fast-food-outline" color={color} />,
+        }}
       />
     </BottomTab.Navigator>
   );
