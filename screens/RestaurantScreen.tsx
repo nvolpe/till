@@ -1,28 +1,21 @@
 import * as React from 'react';
-import { StyleSheet, FlatList, ListRenderItemInfo, Image, Pressable } from 'react-native';
+import { StyleSheet, FlatList, ListRenderItemInfo, Image } from 'react-native';
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
 import { Restaurant } from '../models/types'
 import {restaurant_test_data} from '../testData/data'
-import { useNavigation } from '@react-navigation/native';
-
 
 interface RenderItem {
   item: Restaurant
   index: number
 }
 
-export default function TabOneScreen() {
-  const navigation = useNavigation();
-
-  const getRenderItem = ({ item, index }: RenderItem)=> (
-    <View style={styles.item}>
-       <Pressable
-        onPress={() => {
-          console.log('pressed')
-          navigation.navigate('RestaurantScreen')
-        }}>
-      <View style={styles.imageContainer}>
+export default function RestaurantScreen() {
+ 
+  return (
+    <View style={styles.container}>
+        <View style={styles.item}>
+      {/* <View style={styles.imageContainer}>
         <Image
           source={{ uri: `${item.url}` }}
           style={styles.image}
@@ -30,14 +23,8 @@ export default function TabOneScreen() {
         </View>
       <Text style={styles.title}>{item.name}</Text>
       <Text style={styles.title}>{item.MoreInfo}</Text>
-      <Text style={styles.title}>{`Order Anytime, pickup ${item.StartTime}`}</Text>
-      </Pressable>
+      <Text style={styles.title}>{`Order Anytime, pickup ${item.StartTime}`}</Text> */}
     </View>
-  );
-
-  return (
-    <View style={styles.container}>
-      <FlatList data={restaurant_test_data} renderItem={getRenderItem} keyExtractor={item => item.objectId} />
     </View>
   );
 }

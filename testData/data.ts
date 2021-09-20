@@ -1,0 +1,200 @@
+import { Restaurant } from '../models/types'
+
+export const restaurant_test_data: Array<Restaurant> = [
+      {
+        "objectId": "dexBCNCfoZ",
+        "address": "926 Turquoise St, San Diego, CA 92109",
+        "name": "Ambrogio15",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/%3CFIRDocumentReference:%200x2816cfe40%3E.png?alt=media&token=ea5a5969-7780-441e-958a-a4ff84e42439",
+        "time": "order anytime, pickup from 6:30pm till 8:30pm",
+        "createdAt": "2020-05-13T06:18:50.791Z",
+        "updatedAt": "2021-08-24T04:22:07.700Z",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.8095085,
+          "longitude": -117.2569759
+        },
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "MoreInfo": "Authentic Italian Pizza",
+        "StartTime": 8,
+        "EndTime": 11,
+        "StartHr": 19,
+        "StartMin": 0,
+        "EndHr": 23,
+        "EndMin": 0,
+        "TimeArr": [
+          37,
+          41
+        ],
+        "OverLay": "Closed",
+        "overlayBan": true
+      },
+      {
+        "objectId": "NoQ2TZhdVL",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.7860303,
+          "longitude": -117.2533551
+        },
+        "address": "3861 Mission Blvd, San Diego",
+        "name": "Arslan's Gyros",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/IMG_8106.JPG?alt=media&token=2f630566-008f-44fa-89b2-f576dc76beb6",
+        "time": "order anytime, pickup from 6:00pm till 8:00pm",
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-23T01:30:36.564Z",
+        "updatedAt": "2021-08-24T04:22:07.658Z",
+        "MoreInfo": "Gyros, Kebabs • Mediterranean",
+        "StartTime": 8,
+        "EndTime": 10,
+        "StartHr": 20,
+        "StartMin": 0,
+        "EndHr": 22,
+        "EndMin": 0,
+        "OverLay": "Closed",
+        "overlayBan": true,
+        "TimeArr": [
+          36,
+          40
+        ]
+      },
+      {
+        "objectId": "DPddYPwBfj",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.7991109,
+          "longitude": -117.245718
+        },
+        "address": "1380 Garnet Ave, San Diego",
+        "name": "Donut Bar",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/Donut-Bar-010-d4daa2bf5056a36_d4daa3be-5056-a36a-07178d3ffe46eaf0.jpg?alt=media&token=54ce48d1-fe9b-4d41-9ce9-8801398e6997",
+        "time": "Pickup time from 10:30am till 12:30am",
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "MoreInfo": "Donuts • Coffee",
+        "createdAt": "2020-07-26T19:14:45.596Z",
+        "updatedAt": "2021-08-23T20:02:19.288Z",
+        "StartTime": 8,
+        "EndTime": 9,
+        "StartHr": 20,
+        "StartMin": 0,
+        "EndHr": 21,
+        "EndMin": 0,
+        "OverLay": "Closed",
+        "overlayBan": true,
+        "TimeArr": [
+          21,
+          25
+        ]
+      },
+      {
+        "objectId": "0qQLSEBQuK",
+        "name": "Flavors of East Africa",
+        "createdAt": "2021-01-27T23:35:08.528Z",
+        "updatedAt": "2021-08-24T04:22:07.752Z",
+        "time": "order anytime, pickup from 7:00pm till 9:00pm",
+        "address": "2322 El Cajon Blvd, San Diego, CA 92104",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/favoassdgdgsf.png?alt=media&token=c6213f4c-b68e-4b23-9145-3d9798c6e09a",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.755799,
+          "longitude": -117.1403502
+        },
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "MoreInfo": "African food",
+        "StartTime": 8,
+        "StartMin": 0,
+        "EndHr": 21,
+        "EndMin": 0,
+        "EndTime": 4,
+        "StartHr": 4,
+        "OverLay": "Closed",
+        "overlayBan": true,
+        "TimeArr": [
+          38,
+          41
+        ]
+      },
+      {
+        "objectId": "NQGUteUzPq",
+        "name": "Parana",
+        "createdAt": "2021-01-27T23:47:02.536Z",
+        "updatedAt": "2021-08-24T04:22:07.699Z",
+        "time": "order anytime, pickup from 8:00pm till 9:00pm",
+        "address": "Ocean Beach Market Newport Avenue",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/parnalogo-white.png?alt=media&token=edbb5763-15e5-4fe7-9418-21d36b1a7c44",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.7458461,
+          "longitude": -117.2515278
+        },
+        "HotelID": "tshyZCnqOMYHOVAMIQbpj1hYhSJ3",
+        "EndHr": 0,
+        "MoreInfo": "Empanadas",
+        "EndTime": 5,
+        "StartHr": 5,
+        "EndMin": 5,
+        "StartMin": 5,
+        "StartTime": 5,
+        "OverLay": "Closed",
+        "overlayBan": true,
+        "TimeArr": [
+          40,
+          42
+        ]
+      },
+      {
+        "objectId": "XyeHVvRhyE",
+        "HotelID": "NgcoJkjVjbhnsBQkZiaQVsXc4PP2",
+        "overlayBan": true,
+        "createdAt": "2021-03-19T00:16:24.171Z",
+        "updatedAt": "2021-08-24T04:22:07.726Z",
+        "name": "Seaside Pizza Co.",
+        "time": "Pickup time from 6:00pm till 8:30pm",
+        "address": "4263 Mission Blvd, San Diego",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.7930599,
+          "longitude": -117.2564122
+        },
+        "MoreInfo": "Pizza",
+        "EndHr": 0,
+        "EndTime": 0,
+        "StartHr": 0,
+        "TimeArr": [
+          36,
+          41
+        ],
+        "OverLay": "Closed",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/Screen%20Shot%202021-03-18%20at%205.19.44%20PM.png?alt=media&token=53ef0495-ec47-4dd5-86fe-30b20e1411f9",
+        "StartTime": 4,
+        "StartMin": 5,
+        "EndMin": 5
+      },
+      {
+        "objectId": "uXLzNK9LW0",
+        "url": "https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/red-logo-01.jpg?alt=media&token=d5321ad6-7d2e-41ae-85d1-e908924269f7",
+        "overlayBan": true,
+        "createdAt": "2021-04-15T19:32:13.301Z",
+        "updatedAt": "2021-08-24T04:22:07.765Z",
+        "time": "Pickup time from 5:30pm till 7:00pm",
+        "name": "Chickpea USA\n",
+        "address": "5111 College Ave, San Diego",
+        "GeoPoint": {
+          "__type": "GeoPoint",
+          "latitude": 32.7718032,
+          "longitude": -117.0698213
+        },
+        "MoreInfo": "Mediterranean",
+        "EndHr": 0,
+        "EndTime": 0,
+        "StartHr": 0,
+        "StartTime": 0,
+        "StartMin": 0,
+        "EndMin": 0,
+        "TimeArr": [
+          35,
+          38
+        ],
+        "OverLay": "Closed",
+        "HotelID": "KFNbivjiYKZMghcazPoOhqtdsMe2"
+      }
+    ]
