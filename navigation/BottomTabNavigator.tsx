@@ -11,7 +11,7 @@ import * as React from 'react';
 import Colors from '../constants/Colors';
 import useColorScheme from '../hooks/useColorScheme';
 import { RestaurantListScreen } from '../screens/RestaurantListScreen';
-import RestaurantScreen from '../screens/RestaurantScreen';
+import {RestaurantScreen} from '../screens/RestaurantScreen';
 import TabTwoScreen from '../screens/TabTwoScreen';
 import TabThreeScreen from '../screens/TabThreeScreen';
 import { BottomTabParamList, TabTwoParamList, TabThreeParamList, RestaurantStackParams } from '../types';

@@ -1,0 +1,5318 @@
+{
+    "results" : [
+      {
+        "objectId": "1dwHg08Mhd",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-24T20:56:48.423Z",
+        "updatedAt": "2020-05-24T21:30:36.686Z"
+      },
+      {
+        "objectId": "wKoAjWVuTX",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-24T21:35:54.028Z",
+        "updatedAt": "2020-05-24T21:46:15.148Z"
+      },
+      {
+        "objectId": "hZdH0FusPD",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 26,
+        "Status": 2,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3,
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 56,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-27T00:33:04.226Z",
+        "updatedAt": "2020-05-27T09:50:20.603Z"
+      },
+      {
+        "objectId": "oP6trUYLJb",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 34,
+        "Status": 2,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 70,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-27T01:08:53.194Z",
+        "updatedAt": "2020-05-27T09:50:21.176Z"
+      },
+      {
+        "objectId": "I8cLUNmZR7",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 34,
+        "Status": 2,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 70,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-27T01:11:41.471Z",
+        "updatedAt": "2020-05-27T09:50:22.743Z"
+      },
+      {
+        "objectId": "PbzJHQiAs1",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 34,
+        "Status": 2,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 70,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-27T01:26:47.976Z",
+        "updatedAt": "2020-05-27T09:50:23.264Z"
+      },
+      {
+        "objectId": "rhNMSHHbhn",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 40,
+        "Status": 2,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "Sar0nkCW7x": 4
+        },
+        "FoodInfo": {
+          "Oliveria": 4,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 84,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-27T02:03:43.660Z",
+        "updatedAt": "2020-05-27T09:50:23.826Z"
+      },
+      {
+        "objectId": "Td4tMVZCVn",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 12,
+        "Status": 2,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-05-31T06:11:59.405Z",
+        "updatedAt": "2020-06-03T00:11:24.270Z"
+      },
+      {
+        "objectId": "8j6NPcSGSH",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 20,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2,
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-02T23:49:51.166Z",
+        "updatedAt": "2020-06-03T00:11:20.755Z"
+      },
+      {
+        "objectId": "fKopsxez9p",
+        "UID": "fR5hNS1cz3fYBMD4Zg0MV9Lnj1t2",
+        "Total": 26,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1,
+          "E9aDChSgAD": 2
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 45,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:42:25.889Z",
+        "updatedAt": "2020-06-03T21:45:03.952Z"
+      },
+      {
+        "objectId": "UPIvn6hmSw",
+        "UID": "fR5hNS1cz3fYBMD4Zg0MV9Lnj1t2",
+        "Total": 70,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 2,
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 2,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 121,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:43:24.657Z",
+        "updatedAt": "2020-06-03T21:45:02.087Z"
+      },
+      {
+        "objectId": "5kEAPVz8nc",
+        "UID": "fR5hNS1cz3fYBMD4Zg0MV9Lnj1t2",
+        "Total": 74,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 5,
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 5,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 127,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:45:44.624Z",
+        "updatedAt": "2020-06-03T21:47:16.377Z"
+      },
+      {
+        "objectId": "wkJNO3UfsB",
+        "UID": "fR5hNS1cz3fYBMD4Zg0MV9Lnj1t2",
+        "Total": 127,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 4,
+          "E9aDChSgAD": 3,
+          "qGFZCF9Q90": 4,
+          "aUObURdbxd": 3,
+          "s8v5vu1oiN": 0
+        },
+        "FoodInfo": {
+          "Patate Speck and Truffle Oil": 3,
+          "Cotto e Funghi": 0,
+          "Oliveria": 4,
+          "Mediterranea": 4,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 247,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:46:57.129Z",
+        "updatedAt": "2020-06-03T21:47:17.587Z"
+      },
+      {
+        "objectId": "vwcMjLVZla",
+        "UID": "fR5hNS1cz3fYBMD4Zg0MV9Lnj1t2",
+        "Total": 131,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 4,
+          "E9aDChSgAD": 3,
+          "qGFZCF9Q90": 4,
+          "aUObURdbxd": 1,
+          "s8v5vu1oiN": 3
+        },
+        "FoodInfo": {
+          "Patate Speck and Truffle Oil": 1,
+          "Cotto e Funghi": 3,
+          "Oliveria": 4,
+          "Mediterranea": 4,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 260,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:48:17.516Z",
+        "updatedAt": "2020-06-03T21:55:15.677Z"
+      },
+      {
+        "objectId": "cYS44PHwDJ",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 42,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 4,
+          "s8v5vu1oiN": 1,
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 4,
+          "Potata Hawaii": 1,
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 87,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-03T21:59:25.537Z",
+        "updatedAt": "2020-06-03T21:59:29.945Z"
+      },
+      {
+        "objectId": "wfWZxY1SKr",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 318,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5,
+          "E9aDChSgAD": 6,
+          "qGFZCF9Q90": 3,
+          "aUObURdbxd": 1,
+          "s8v5vu1oiN": 2
+        },
+        "FoodInfo": {
+          "Patate Speck and Truffle Oil": 1,
+          "Potata Hawaii": 6,
+          "Oliveria": 5,
+          "Mediterranea": 3,
+          "Cotto e Funghi": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 1467,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-09T23:02:45.839Z",
+        "updatedAt": "2020-06-10T03:47:32.023Z"
+      },
+      {
+        "objectId": "UbSdtr1Vm9",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 180,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5,
+          "E9aDChSgAD": 6,
+          "qGFZCF9Q90": 1,
+          "aUObURdbxd": 1,
+          "s8v5vu1oiN": 2
+        },
+        "FoodInfo": {
+          "Patate Speck and Truffle Oil": 1,
+          "Potata Hawaii": 6,
+          "Oliveria": 5,
+          "Mediterranea": 1,
+          "Cotto e Funghi": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 627,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-09T23:03:07.801Z",
+        "updatedAt": "2020-06-10T03:47:34.693Z"
+      },
+      {
+        "objectId": "g7t3OlLGER",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 69,
+        "Status": 1,
+        "FoodInfoObj": {
+          "qGFZCF9Q90": 1
+        },
+        "FoodInfo": {
+          "Mediterranea": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 420,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-10T04:02:06.879Z",
+        "updatedAt": "2020-06-10T04:09:26.325Z"
+      },
+      {
+        "objectId": "fElOx2Lt8j",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 207,
+        "Status": 1,
+        "FoodInfoObj": {
+          "qGFZCF9Q90": 2
+        },
+        "FoodInfo": {
+          "Mediterranea": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 1260,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-10T04:19:17.855Z",
+        "updatedAt": "2020-06-10T04:20:03.953Z"
+      },
+      {
+        "objectId": "klGTqaqDd5",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-10T08:37:09.686Z",
+        "updatedAt": "2020-06-15T21:46:36.200Z"
+      },
+      {
+        "objectId": "eWodreRtEl",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 52,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 2,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 2,
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 96,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-15T22:22:44.803Z",
+        "updatedAt": "2020-06-15T22:24:24.356Z"
+      },
+      {
+        "objectId": "LCsy8vBKW8",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 69,
+        "Status": 1,
+        "FoodInfoObj": {
+          "qGFZCF9Q90": 1,
+          "Sar0nkCW7x": 0
+        },
+        "FoodInfo": {
+          "Oliveria": 0,
+          "Mediterranea": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 420,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-15T22:26:26.871Z",
+        "updatedAt": "2020-06-15T22:27:48.430Z"
+      },
+      {
+        "objectId": "xJwfhkN7Sn",
+        "UID": "Cg0EtqCeT1Y0yotSDqCZZ1fuFQt1",
+        "Total": 30,
+        "Status": 0,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 3
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 51,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-06-19T20:14:16.436Z",
+        "updatedAt": "2020-06-19T20:14:16.436Z"
+      },
+      {
+        "objectId": "lmzEvO0Hwg",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 8,
+        "Status": 0,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-16T10:03:05.417Z",
+        "updatedAt": "2020-07-16T10:03:05.417Z"
+      },
+      {
+        "objectId": "HDmeugrvHA",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 22,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-16T10:03:50.294Z",
+        "updatedAt": "2020-07-16T10:03:50.294Z"
+      },
+      {
+        "objectId": "ECeUZalLuL",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-16T10:04:35.429Z",
+        "updatedAt": "2020-07-16T10:04:35.429Z"
+      },
+      {
+        "objectId": "dKBSeSaYED",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 46,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 5,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1,
+          "Potata Hawaii": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 84,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-16T10:11:37.471Z",
+        "updatedAt": "2020-07-16T10:11:37.471Z"
+      },
+      {
+        "objectId": "l6a5opoaU7",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 48,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 6
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 6
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 84,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-16T10:18:33.139Z",
+        "updatedAt": "2020-07-16T10:18:33.139Z"
+      },
+      {
+        "objectId": "E8NEejI0Ga",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T00:38:51.114Z",
+        "updatedAt": "2020-07-17T00:38:51.114Z"
+      },
+      {
+        "objectId": "hBLYEdZaDg",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:09:58.972Z",
+        "updatedAt": "2020-07-17T01:09:58.972Z"
+      },
+      {
+        "objectId": "NbVoXUVOpd",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:16:59.306Z",
+        "updatedAt": "2020-07-17T01:16:59.306Z"
+      },
+      {
+        "objectId": "uuGHNwyadD",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:17:24.044Z",
+        "updatedAt": "2020-07-17T01:17:24.044Z"
+      },
+      {
+        "objectId": "lqy0DsQBlJ",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:17:42.589Z",
+        "updatedAt": "2020-07-17T01:17:42.589Z"
+      },
+      {
+        "objectId": "v86K2P8zgD",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 56,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 7
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 7
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 98,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:17:55.984Z",
+        "updatedAt": "2020-07-17T01:17:55.984Z"
+      },
+      {
+        "objectId": "l0E4LsV5gX",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 36,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 6
+        },
+        "FoodInfo": {
+          "Oliveria": 6
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 84,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:20:54.190Z",
+        "updatedAt": "2020-07-17T01:20:54.190Z"
+      },
+      {
+        "objectId": "UueaZ4Haoh",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 48,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 8
+        },
+        "FoodInfo": {
+          "Oliveria": 8
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 112,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:21:16.500Z",
+        "updatedAt": "2020-07-17T01:21:16.500Z"
+      },
+      {
+        "objectId": "ZBkWaX9S63",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 42,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 7
+        },
+        "FoodInfo": {
+          "Oliveria": 7
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 98,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:21:27.820Z",
+        "updatedAt": "2020-07-17T01:21:27.820Z"
+      },
+      {
+        "objectId": "VmojNSpnGM",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 18,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T01:21:39.512Z",
+        "updatedAt": "2020-07-17T01:21:39.512Z"
+      },
+      {
+        "objectId": "pIXrnJRpkY",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 20,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2,
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-17T21:48:14.137Z",
+        "updatedAt": "2020-07-17T21:48:14.137Z"
+      },
+      {
+        "objectId": "13GW6PrgJI",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T00:15:53.588Z",
+        "updatedAt": "2020-07-18T00:15:53.588Z"
+      },
+      {
+        "objectId": "MTgGVHxqy4",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T00:21:02.836Z",
+        "updatedAt": "2020-07-18T00:21:02.836Z"
+      },
+      {
+        "objectId": "XFVUP5XPtk",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 18,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 3
+        },
+        "FoodInfo": {
+          "Oliveria": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T00:28:04.947Z",
+        "updatedAt": "2020-07-18T00:28:04.947Z"
+      },
+      {
+        "objectId": "9RC8hKr5Rj",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T00:49:45.556Z",
+        "updatedAt": "2020-07-18T00:49:45.556Z"
+      },
+      {
+        "objectId": "l1wx7VJ7gJ",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 16,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T00:58:47.943Z",
+        "updatedAt": "2020-07-18T00:58:47.943Z"
+      },
+      {
+        "objectId": "HkJ4whJeba",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:04:26.872Z",
+        "updatedAt": "2020-07-18T01:04:26.872Z"
+      },
+      {
+        "objectId": "hspxeVjEB4",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:05:32.035Z",
+        "updatedAt": "2020-07-18T01:05:32.035Z"
+      },
+      {
+        "objectId": "6c4maaIA8t",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:07:52.514Z",
+        "updatedAt": "2020-07-18T01:07:52.514Z"
+      },
+      {
+        "objectId": "EWbPqQBqgW",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:09:51.312Z",
+        "updatedAt": "2020-07-18T01:09:51.312Z"
+      },
+      {
+        "objectId": "2GBxBQ9qcA",
+        "UID": "2cIrTl1ICrMLnH6orWbfPUS9cfI3",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:28:13.092Z",
+        "updatedAt": "2020-07-18T01:28:13.092Z"
+      },
+      {
+        "objectId": "5AdZSx3CvO",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T01:34:36.436Z",
+        "updatedAt": "2020-07-18T01:34:36.436Z"
+      },
+      {
+        "objectId": "vfAaAMRaEp",
+        "UID": "pY1K9bi3qkYD45yUBmnqnnGPwKj2",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T02:03:04.741Z",
+        "updatedAt": "2020-07-18T02:03:04.741Z"
+      },
+      {
+        "objectId": "ORQuTKq9kY",
+        "UID": "pY1K9bi3qkYD45yUBmnqnnGPwKj2",
+        "Total": 50,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 5
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 85,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T09:54:07.670Z",
+        "updatedAt": "2020-07-18T09:54:07.670Z"
+      },
+      {
+        "objectId": "pfyw91mt9R",
+        "UID": "pY1K9bi3qkYD45yUBmnqnnGPwKj2",
+        "Total": 60,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 6
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 6
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 102,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T09:56:09.210Z",
+        "updatedAt": "2020-07-18T09:56:09.210Z"
+      },
+      {
+        "objectId": "xQWnjLbADg",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 30,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 70,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T09:58:54.827Z",
+        "updatedAt": "2020-07-18T09:58:54.827Z"
+      },
+      {
+        "objectId": "MuyvRg6vUd",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T09:59:29.470Z",
+        "updatedAt": "2020-07-18T09:59:29.470Z"
+      },
+      {
+        "objectId": "BblSJbDONb",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 24,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T09:59:39.951Z",
+        "updatedAt": "2020-07-18T09:59:39.951Z"
+      },
+      {
+        "objectId": "F6AiTCreXw",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 14,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T10:00:49.708Z",
+        "updatedAt": "2020-07-18T10:00:49.708Z"
+      },
+      {
+        "objectId": "qXCKfPDRsF",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 16,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 28,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T10:01:21.463Z",
+        "updatedAt": "2020-07-18T10:01:21.463Z"
+      },
+      {
+        "objectId": "A7vq7tDbIS",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 56,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 2,
+          "s8v5vu1oiN": 4
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 4,
+          "Potata Hawaii": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 96,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T10:13:21.031Z",
+        "updatedAt": "2020-07-18T10:13:21.031Z"
+      },
+      {
+        "objectId": "6vfJ5Udp7m",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 96,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 4,
+          "s8v5vu1oiN": 4,
+          "E9aDChSgAD": 4
+        },
+        "FoodInfo": {
+          "Oliveria": 4,
+          "Cotto e Funghi": 4,
+          "Potata Hawaii": 4
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 180,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T10:13:44.125Z",
+        "updatedAt": "2020-07-18T10:13:44.125Z"
+      },
+      {
+        "objectId": "ulA4KNHnUk",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 588,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 3,
+          "Sar0nkCW7x": 4
+        },
+        "FoodInfo": {
+          "Oliveria": 4,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 588,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T20:14:59.210Z",
+        "updatedAt": "2020-07-18T20:14:59.210Z"
+      },
+      {
+        "objectId": "vuUECCU2EU",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 810,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5,
+          "s8v5vu1oiN": 5,
+          "E9aDChSgAD": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5,
+          "Potata Hawaii": 5,
+          "Cotto e Funghi": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 845,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-18T22:51:36.694Z",
+        "updatedAt": "2020-07-18T22:51:36.694Z"
+      },
+      {
+        "objectId": "L5KJXJbVln",
+        "UID": "VDNTGpvDLThzvuPC3TVq3t2IoQR2",
+        "Total": 20,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 2
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 34,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T02:57:50.155Z",
+        "updatedAt": "2020-07-19T02:57:50.155Z"
+      },
+      {
+        "objectId": "68I664txz8",
+        "UID": "VDNTGpvDLThzvuPC3TVq3t2IoQR2",
+        "Total": 304,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 4,
+          "Sar0nkCW7x": 2
+        },
+        "FoodInfo": {
+          "Oliveria": 2,
+          "Cotto e Funghi": 4
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 332,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T03:02:15.908Z",
+        "updatedAt": "2020-07-19T03:02:15.908Z"
+      },
+      {
+        "objectId": "xQ0CD6u9Yp",
+        "UID": "VDNTGpvDLThzvuPC3TVq3t2IoQR2",
+        "Total": 192,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 3,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 192,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T03:03:59.957Z",
+        "updatedAt": "2020-07-19T03:03:59.957Z"
+      },
+      {
+        "objectId": "qFg4Jgw00f",
+        "UID": "VDNTGpvDLThzvuPC3TVq3t2IoQR2",
+        "Total": 60,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 60,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T03:06:28.267Z",
+        "updatedAt": "2020-07-19T03:06:28.267Z"
+      },
+      {
+        "objectId": "wfh5KPzQHz",
+        "UID": "VDNTGpvDLThzvuPC3TVq3t2IoQR2",
+        "Total": 40,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "s8v5vu1oiN": 2
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 2,
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 54,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T03:12:32.034Z",
+        "updatedAt": "2020-07-19T03:12:32.034Z"
+      },
+      {
+        "objectId": "nIAgpbxUBR",
+        "UID": "fPxLB83GTbXWvevtUVNdiFKiOai1",
+        "ObjectID": "dexBCNCfoZ",
+        "FoodInfo": {
+          "Oliveria": 1,
+          "Potata Hawaii": 1
+        },
+        "Total": 21,
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "createdAt": "2020-07-19T03:53:49.185Z",
+        "updatedAt": "2020-07-19T03:53:49.185Z"
+      },
+      {
+        "objectId": "zPxM7IADN1",
+        "UID": "fPxLB83GTbXWvevtUVNdiFKiOai1",
+        "ObjectID": "dexBCNCfoZ",
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "Total": 10,
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "createdAt": "2020-07-19T03:55:10.290Z",
+        "updatedAt": "2020-07-19T03:55:10.290Z"
+      },
+      {
+        "objectId": "XLF62Dg9aJ",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 25,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T22:42:18.637Z",
+        "updatedAt": "2020-07-19T22:42:18.637Z"
+      },
+      {
+        "objectId": "4FDktDRt9W",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 65,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1,
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1,
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 142,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T22:51:30.126Z",
+        "updatedAt": "2020-07-19T22:51:30.126Z"
+      },
+      {
+        "objectId": "iic2pXH0xl",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 30,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 60,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T22:51:42.385Z",
+        "updatedAt": "2020-07-19T22:51:42.385Z"
+      },
+      {
+        "objectId": "wwm7hPAcfk",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 30,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 3
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 51,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T22:51:53.005Z",
+        "updatedAt": "2020-07-19T22:51:53.005Z"
+      },
+      {
+        "objectId": "nQqqddUAZX",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 55,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 125,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T22:56:46.932Z",
+        "updatedAt": "2020-07-19T22:56:46.932Z"
+      },
+      {
+        "objectId": "mwutGwbUJ8",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 55,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 125,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:00:05.514Z",
+        "updatedAt": "2020-07-19T23:00:05.514Z"
+      },
+      {
+        "objectId": "cwRwkDerV5",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 55,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 125,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:02:54.084Z",
+        "updatedAt": "2020-07-19T23:02:54.084Z"
+      },
+      {
+        "objectId": "CxVw3S7GqL",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 55,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 125,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:03:24.427Z",
+        "updatedAt": "2020-07-19T23:03:24.427Z"
+      },
+      {
+        "objectId": "9bw3vrgT3F",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 50,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 5
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 85,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:03:39.277Z",
+        "updatedAt": "2020-07-19T23:03:39.277Z"
+      },
+      {
+        "objectId": "dFLCmCtcFe",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 105,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 5,
+          "Sar0nkCW7x": 5
+        },
+        "FoodInfo": {
+          "Oliveria": 5,
+          "Potata Hawaii": 5
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 225,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:04:07.166Z",
+        "updatedAt": "2020-07-19T23:04:07.166Z"
+      },
+      {
+        "objectId": "EBcUOnCaD0",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 72,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2,
+          "s8v5vu1oiN": 2,
+          "E9aDChSgAD": 3
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 2,
+          "Oliveria": 2,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 144,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:06:29.937Z",
+        "updatedAt": "2020-07-19T23:06:29.937Z"
+      },
+      {
+        "objectId": "l2xAJPDsb5",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 81,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 4,
+          "E9aDChSgAD": 3,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 4,
+          "Oliveria": 1,
+          "Potata Hawaii": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 153,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:06:56.116Z",
+        "updatedAt": "2020-07-19T23:06:56.116Z"
+      },
+      {
+        "objectId": "fSD18fcb4j",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 25,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:16:54.165Z",
+        "updatedAt": "2020-07-19T23:16:54.165Z"
+      },
+      {
+        "objectId": "4XT8b5R7aZ",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 25,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:20:34.799Z",
+        "updatedAt": "2020-07-19T23:20:34.799Z"
+      },
+      {
+        "objectId": "YGBR6bqMrS",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 25,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-19T23:23:12.157Z",
+        "updatedAt": "2020-07-19T23:23:12.157Z"
+      },
+      {
+        "objectId": "kej7ZXbm0J",
+        "UID": "6Ro8JkOW5iWWDgZpdutYvbpb09j1",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 25,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-21T00:59:15.421Z",
+        "updatedAt": "2020-07-21T00:59:15.421Z"
+      },
+      {
+        "objectId": "0A8Mcu2Uum",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-21T22:09:24.593Z",
+        "updatedAt": "2020-07-21T22:09:24.593Z"
+      },
+      {
+        "objectId": "LVgEsdCIkl",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 2.5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1,
+          "Oliveria": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 42.89,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T02:43:49.700Z",
+        "updatedAt": "2020-08-01T03:29:42.366Z"
+      },
+      {
+        "objectId": "X5X2jNj97Z",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T02:48:06.338Z",
+        "updatedAt": "2020-07-22T02:48:06.338Z"
+      },
+      {
+        "objectId": "RDTH3tfHNV",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T02:53:49.245Z",
+        "updatedAt": "2020-07-22T02:53:49.245Z"
+      },
+      {
+        "objectId": "PQqvC5oDxw",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T02:55:32.059Z",
+        "updatedAt": "2020-07-22T02:55:32.059Z"
+      },
+      {
+        "objectId": "2wtmKGMHGi",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T03:13:35.219Z",
+        "updatedAt": "2020-07-22T03:13:35.219Z"
+      },
+      {
+        "objectId": "Yys6Nvud0o",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1.01,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Cotto e Funghi": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T03:15:50.721Z",
+        "updatedAt": "2020-08-01T03:28:46.623Z"
+      },
+      {
+        "objectId": "xsqWUJAxLP",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Potata Hawaii": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 20,
+        "HotelID": "STDhEwmUZFMnTQlXDud4N8VO8L13",
+        "createdAt": "2020-07-22T21:05:28.274Z",
+        "updatedAt": "2020-07-22T21:05:28.274Z"
+      },
+      {
+        "objectId": "lJH7CJ2YlI",
+        "UID": "0lLUUBSulRa6GVp91fxepwqQ46T2",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-23T22:16:03.561Z",
+        "updatedAt": "2020-07-23T22:16:03.561Z"
+      },
+      {
+        "objectId": "4gy6wGgUrT",
+        "UID": "9TQsz3d9hhe6y2mZ5RN7VHNCBVD2",
+        "Total": 20,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1,
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 34,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-23T23:20:27.998Z",
+        "updatedAt": "2020-07-23T23:20:27.998Z"
+      },
+      {
+        "objectId": "ggs8GodIEE",
+        "UID": "52XtUJir1oMoBkyffThMPSSI0IB3",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T00:10:42.480Z",
+        "updatedAt": "2020-07-24T00:10:42.480Z"
+      },
+      {
+        "objectId": "L52th4PwlE",
+        "UID": "bUgom1Lk8pPGvaiVHvhNKyHConR2",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Gyros Plate": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": 9,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-24T01:03:20.129Z",
+        "updatedAt": "2020-07-24T01:03:20.129Z"
+      },
+      {
+        "objectId": "v2VPAF1GRM",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Gyros Plate, Falafel or Chicken Plate": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": 14,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-24T03:09:16.331Z",
+        "updatedAt": "2020-07-24T03:09:16.331Z"
+      },
+      {
+        "objectId": "jRWq6PLauo",
+        "UID": "qVzTrBMYEnaLS9uBa1Rjlzbjzxf2",
+        "Total": 23,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1,
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 38,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T03:14:22.901Z",
+        "updatedAt": "2020-07-24T03:14:22.901Z"
+      },
+      {
+        "objectId": "ryrgYlGByD",
+        "UID": "tRGM7oSiyMVrKbJoCMa75YAOclO2",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T03:56:10.161Z",
+        "updatedAt": "2020-07-24T04:15:54.272Z"
+      },
+      {
+        "objectId": "noQeed0V9e",
+        "UID": "tRGM7oSiyMVrKbJoCMa75YAOclO2",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 21,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T03:58:28.383Z",
+        "updatedAt": "2020-07-24T03:58:28.383Z"
+      },
+      {
+        "objectId": "tAf6GlTPzY",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 21,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T04:02:30.874Z",
+        "updatedAt": "2020-07-24T04:02:30.874Z"
+      },
+      {
+        "objectId": "jrAkIvLE8G",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T04:17:55.466Z",
+        "updatedAt": "2020-07-24T04:17:55.466Z"
+      },
+      {
+        "objectId": "Med9m4JHJ5",
+        "UID": "PsoDCsoEJOeJSXhwU8oMT7TpcCp1",
+        "Total": 43,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1,
+          "s8v5vu1oiN": 1,
+          "E9aDChSgAD": 2
+        },
+        "FoodInfo": {
+          "Parmigiana": 1,
+          "Salamino Piccante": 2,
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 72,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-24T14:27:36.641Z",
+        "updatedAt": "2020-07-24T14:27:36.641Z"
+      },
+      {
+        "objectId": "DBgEQ5oZFf",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Gyros Plate, Falafel or Chicken Plate": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": 14,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-25T02:22:31.271Z",
+        "updatedAt": "2020-07-25T02:22:31.271Z"
+      },
+      {
+        "objectId": "AiRnp7DgVT",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 15,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 3
+        },
+        "FoodInfo": {
+          "Gyros Plate, Falafel or Chicken Plate": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": 42,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-25T02:54:13.427Z",
+        "updatedAt": "2020-07-28T02:48:11.173Z"
+      },
+      {
+        "objectId": "Epflu8E0VW",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 21,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-25T04:53:01.166Z",
+        "updatedAt": "2020-07-25T04:53:01.166Z"
+      },
+      {
+        "objectId": "71XBeOozTx",
+        "UID": "9NHPsyCbhNcucCLZyg2NzcZRPf13",
+        "Total": 33,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1,
+          "s8v5vu1oiN": 1,
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1,
+          "Salamino Piccante": 1,
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 55,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-25T23:48:03.907Z",
+        "updatedAt": "2020-07-25T23:48:03.907Z"
+      },
+      {
+        "objectId": "nnwsbDwLny",
+        "UID": "9TQsz3d9hhe6y2mZ5RN7VHNCBVD2",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-26T02:32:52.824Z",
+        "updatedAt": "2020-07-26T02:32:52.824Z"
+      },
+      {
+        "objectId": "0vD02fqLh5",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 20,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1,
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1,
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 34,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-26T03:39:26.592Z",
+        "updatedAt": "2020-07-26T03:39:26.592Z"
+      },
+      {
+        "objectId": "VNX1crye3U",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-26T03:42:24.275Z",
+        "updatedAt": "2020-07-26T03:42:24.275Z"
+      },
+      {
+        "objectId": "uJ7w1grXsa",
+        "UID": "LevRGipAzqXCkUOjb6g02OzDSZ62",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Salamino Piccante": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-26T23:02:46.717Z",
+        "updatedAt": "2020-07-26T23:02:46.717Z"
+      },
+      {
+        "objectId": "ybmWXbpAof",
+        "UID": "07eb4ZMQ1eT8e47BFg5ntOPoJYy2",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-27T01:42:29.141Z",
+        "updatedAt": "2020-07-27T01:42:29.141Z"
+      },
+      {
+        "objectId": "ZdUsusV5CQ",
+        "UID": "b9Gtol5td3ZilpC2Cpm02DQ9RxC2",
+        "Total": 43,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sar0nkCW7x": 2,
+          "E9aDChSgAD": 1,
+          "s8v5vu1oiN": 1
+        },
+        "FoodInfo": {
+          "Parmigiana": 2,
+          "Salamino Piccante": 1,
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 72,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-27T02:09:26.641Z",
+        "updatedAt": "2020-07-27T02:09:26.641Z"
+      },
+      {
+        "objectId": "Ov5LQuasbB",
+        "UID": "dJb8KTzWPEXRlK3a7OoZlIFJRUw1",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": 10,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2020-07-27T02:24:55.557Z",
+        "updatedAt": "2020-07-27T02:24:55.557Z"
+      },
+      {
+        "objectId": "16XO6rsnM1",
+        "UID": "h0vFcHHWWqhovphFdAmHnvjZP3c2",
+        "Total": 23,
+        "Status": 1,
+        "FoodInfoObj": {
+          "s8v5vu1oiN": 1,
+          "E9aDChSgAD": 1
+        },
+        "FoodInfo": {
+          "Salamino Piccante": 1,
+          "Prosciutto e Burrata": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": 38,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2020-07-27T03:15:23.870Z",
+        "updatedAt": "2020-08-01T03:28:43.163Z"
+      },
+      {
+        "objectId": "mohL2SXadK",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 3,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-01-30T05:18:09.226Z",
+        "updatedAt": "2021-01-30T05:18:09.226Z"
+      },
+      {
+        "objectId": "hkofHluscF",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 3,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-01-30T05:33:15.426Z",
+        "updatedAt": "2021-01-30T05:33:15.426Z"
+      },
+      {
+        "objectId": "3WVxPTEkEg",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 3,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.799099679816756,
+          "longitude": -117.24468557381395
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-01-30T05:34:25.868Z",
+        "updatedAt": "2021-01-30T05:34:25.868Z"
+      },
+      {
+        "objectId": "GRJ11QRcbk",
+        "UID": "jJ7ptrI57FR9bwuG8qqmqT0Z8JG2",
+        "Total": 3,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.72222516754894,
+          "longitude": -117.0148436972195
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-01-30T22:38:43.361Z",
+        "updatedAt": "2021-01-30T22:38:43.361Z"
+      },
+      {
+        "objectId": "CDDpJ32iYq",
+        "UID": "19Vls1yKnkWEMLfyAL4Q44v6QV52",
+        "Total": 3,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.78172736524871,
+          "longitude": -117.25181884143245
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-01-30T22:43:17.664Z",
+        "updatedAt": "2021-01-30T22:43:17.664Z"
+      },
+      {
+        "objectId": "8TSxrQxmB7",
+        "UID": "NLBV9O3S7VMkwanKTGxK0jgnYAk2",
+        "Total": 26,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 2
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.77933612681508,
+          "longitude": -117.07639714801775
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -34,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-01-31T00:31:09.901Z",
+        "updatedAt": "2021-01-31T00:31:09.901Z"
+      },
+      {
+        "objectId": "MaA3nZg7YN",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 36,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 2,
+          "dKmtw2EqyU": 1
+        },
+        "FoodInfo": {
+          "Tortini di Polenta e Bechamel": 1,
+          "Pizza Speck e Crema di Peperoni": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -59,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-01-31T21:16:15.102Z",
+        "updatedAt": "2021-01-31T21:16:15.102Z"
+      },
+      {
+        "objectId": "8pN4jiOOyC",
+        "UID": "40PFMMznBafDGUeIZPzWXIN1df72",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 1
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80623815450737,
+          "longitude": -117.26017232213309
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-02T00:00:34.499Z",
+        "updatedAt": "2021-02-02T00:00:34.499Z"
+      },
+      {
+        "objectId": "19F9dtcnKm",
+        "UID": "jTweGTVVa0gXjp6uyXvCjRakdiy2",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 1
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.816460904886355,
+          "longitude": -117.27087613192404
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -17,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-02T02:04:37.836Z",
+        "updatedAt": "2021-02-02T02:04:37.836Z"
+      },
+      {
+        "objectId": "FDdso5zWlT",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 16,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1,
+          "AcBALfLHxf": 2
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1,
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.7862403012526,
+          "longitude": -117.2532897377427
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -16,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-02T03:55:18.076Z",
+        "updatedAt": "2021-02-02T03:55:18.076Z"
+      },
+      {
+        "objectId": "Awq3pVGF4E",
+        "UID": "Zopneqov9FRKsagGw2x4LhLzR6E2",
+        "Total": 26,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 2
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.826911113734646,
+          "longitude": -117.27767860205483
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -34,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-02T04:17:51.065Z",
+        "updatedAt": "2021-02-02T04:17:51.065Z"
+      },
+      {
+        "objectId": "QAICt6fMTU",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 14,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 2
+        },
+        "FoodInfo": {
+          "Mboga plate": 2
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.79726245466344,
+          "longitude": -117.24286698346116
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -26,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-02-02T04:40:19.567Z",
+        "updatedAt": "2021-02-02T04:40:19.567Z"
+      },
+      {
+        "objectId": "eeJwjh1CoZ",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 1,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -9,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-02T07:53:07.577Z",
+        "updatedAt": "2021-02-02T07:53:07.577Z"
+      },
+      {
+        "objectId": "y5DkwfSPb7",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-02-03T01:45:10.552Z",
+        "updatedAt": "2021-02-03T01:45:10.552Z"
+      },
+      {
+        "objectId": "AAnDRULzBq",
+        "UID": "KDs9SuYl3EaaQnfWH6D0ip7iUiE3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-03T04:36:03.822Z",
+        "updatedAt": "2021-02-03T04:36:03.822Z"
+      },
+      {
+        "objectId": "3V30W4nMct",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76046617666023,
+          "longitude": -117.19325505184361
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-02-03T04:37:14.760Z",
+        "updatedAt": "2021-02-03T04:37:14.760Z"
+      },
+      {
+        "objectId": "sr7Zn2aNvV",
+        "UID": "rkRW8PfD2pXnxoKsPgXZvZvd7jL2",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.768158786291664,
+          "longitude": -117.07446634301738
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -13,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-03T22:21:02.336Z",
+        "updatedAt": "2021-02-03T22:21:02.336Z"
+      },
+      {
+        "objectId": "CVxYPECTms",
+        "UID": "wi5qc5UvP7RQ8sJ1ItqOpiCmWt43",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76951279948121,
+          "longitude": -117.07245903794717
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-02-06T03:31:00.724Z",
+        "updatedAt": "2021-02-06T03:31:00.724Z"
+      },
+      {
+        "objectId": "zpCM9AAKiI",
+        "UID": "6NLh1kf8h6ato4rd7TtfiTYbr8n1",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.759098870932654,
+          "longitude": -117.06435502705231
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -12,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-07T03:21:35.504Z",
+        "updatedAt": "2021-02-07T03:21:35.504Z"
+      },
+      {
+        "objectId": "eMPFAE3Pbn",
+        "UID": "Pjdubmsp19TpAyCQJfUTYH2kfSj1",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -12,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-07T03:40:47.864Z",
+        "updatedAt": "2021-02-07T03:40:47.864Z"
+      },
+      {
+        "objectId": "Z1JTIxt6BC",
+        "UID": "Pjdubmsp19TpAyCQJfUTYH2kfSj1",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 2
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -10,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-07T03:44:45.718Z",
+        "updatedAt": "2021-02-07T03:44:45.718Z"
+      },
+      {
+        "objectId": "yt4UV57mAb",
+        "UID": "Ix18vwN7PYblBE04iHY8He8Mg3C3",
+        "Total": 61,
+        "Status": 1,
+        "FoodInfoObj": {
+          "dKmtw2EqyU": 1,
+          "N4sJ15TXQp": 1,
+          "Sly7xb3vv2": 3
+        },
+        "FoodInfo": {
+          "Carpaccio di Manzo alle Uvette": 1,
+          "Tortini di Polenta e Bechamel": 1,
+          "Pizza Speck e Crema di Peperoni": 3
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.8062121370177,
+          "longitude": -117.2603436746244
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -65,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-07T03:46:42.703Z",
+        "updatedAt": "2021-02-20T02:32:24.086Z"
+      },
+      {
+        "objectId": "NAJhLX3mlG",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -8,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-11T22:12:07.359Z",
+        "updatedAt": "2021-02-11T22:12:07.359Z"
+      },
+      {
+        "objectId": "XhQau4BtAx",
+        "UID": "19Vls1yKnkWEMLfyAL4Q44v6QV52",
+        "Total": 26,
+        "Status": 1,
+        "FoodInfoObj": {
+          "3lh2tS7YuJ": 2
+        },
+        "FoodInfo": {
+          "Pizza Zucchine e Pancetta": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.78173530540452,
+          "longitude": -117.25191109635225
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -26,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-12T02:33:22.087Z",
+        "updatedAt": "2021-02-12T02:33:22.087Z"
+      },
+      {
+        "objectId": "GkCIiSjrZL",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 9,
+        "Status": 1,
+        "FoodInfoObj": {
+          "ybCIoqL5ih": 1
+        },
+        "FoodInfo": {
+          "Insalata Noci e Arance": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -11,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-15T07:29:54.905Z",
+        "updatedAt": "2021-02-15T07:29:54.905Z"
+      },
+      {
+        "objectId": "8hMQnWW8aJ",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 9,
+        "Status": 1,
+        "FoodInfoObj": {
+          "ybCIoqL5ih": 1,
+          "Sly7xb3vv2": 0
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 0,
+          "Insalata Noci e Arance": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -11,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-15T07:33:50.760Z",
+        "updatedAt": "2021-02-15T07:33:50.760Z"
+      },
+      {
+        "objectId": "pWWLRdJFKn",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 0,
+          "n1y5fFo6Fr": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 0,
+          "Double Donut Box": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -19,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-15T07:36:55.354Z",
+        "updatedAt": "2021-02-15T07:36:55.354Z"
+      },
+      {
+        "objectId": "sROedNENYu",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 0,
+          "n1y5fFo6Fr": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 0,
+          "Double Donut Box": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -19,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-02-15T07:38:21.053Z",
+        "updatedAt": "2021-02-15T07:38:21.053Z"
+      },
+      {
+        "objectId": "R9qgCbCpV9",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "N4sJ15TXQp": 1
+        },
+        "FoodInfo": {
+          "Carpaccio di Manzo alle Uvette": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -16,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-15T07:39:33.750Z",
+        "updatedAt": "2021-02-15T07:39:33.750Z"
+      },
+      {
+        "objectId": "EJiaeFgT7m",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "N4sJ15TXQp": 1
+        },
+        "FoodInfo": {
+          "Carpaccio di Manzo alle Uvette": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -16,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-15T07:41:16.079Z",
+        "updatedAt": "2021-02-15T07:41:16.079Z"
+      },
+      {
+        "objectId": "VnokrA8D1b",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 13,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 1
+        },
+        "FoodInfo": {
+          "Pizza Speck e Crema di Peperoni": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -13,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-15T08:11:09.048Z",
+        "updatedAt": "2021-02-15T08:11:09.048Z"
+      },
+      {
+        "objectId": "TFt4nlNmHm",
+        "UID": "F8zMPKwuffd8k135GXScWdf8Xu63",
+        "Total": 15,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 3
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.773839677299,
+          "longitude": -117.18191448875893
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -15,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-23T04:29:01.427Z",
+        "updatedAt": "2021-02-23T04:29:01.427Z"
+      },
+      {
+        "objectId": "HVa6HM0I76",
+        "UID": "lCgqhW0JorSEchLhDPMHMIJSqjo1",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.79174819153091,
+          "longitude": -117.23887772096292
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-02-24T03:44:58.419Z",
+        "updatedAt": "2021-02-24T03:44:58.419Z"
+      },
+      {
+        "objectId": "7gnVN7xoJB",
+        "UID": "GFZsF6Jq1jVdhAeTb5OGWwCir5p1",
+        "Total": 3.6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "eSVpBej5V7": 2
+        },
+        "FoodInfo": {
+          "Chicken Empanadas": 2
+        },
+        "ObjectID": "NQGUteUzPq",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.78287255380288,
+          "longitude": -117.14466049234522
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NQGUteUzPq"
+        },
+        "TotalSaved": -14.4,
+        "HotelID": "tshyZCnqOMYHOVAMIQbpj1hYhSJ3",
+        "createdAt": "2021-02-25T01:57:36.836Z",
+        "updatedAt": "2021-02-25T01:57:36.836Z"
+      },
+      {
+        "objectId": "cfXxHCN0y6",
+        "UID": "N38dwUs2njhNrJHwkmK8QLlsqkJ2",
+        "Total": 3.6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "eSVpBej5V7": 2
+        },
+        "FoodInfo": {
+          "Chicken Empanadas": 2
+        },
+        "ObjectID": "NQGUteUzPq",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.7829550680581,
+          "longitude": -117.14461290013284
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NQGUteUzPq"
+        },
+        "TotalSaved": -14.4,
+        "HotelID": "tshyZCnqOMYHOVAMIQbpj1hYhSJ3",
+        "createdAt": "2021-02-25T01:58:09.780Z",
+        "updatedAt": "2021-02-25T01:58:09.780Z"
+      },
+      {
+        "objectId": "BswD4UDinA",
+        "UID": "v4kxQEU8YVNNCvPmbQr3JbzygUr1",
+        "Total": 25,
+        "Status": 1,
+        "FoodInfoObj": {
+          "N4sJ15TXQp": 1,
+          "3lh2tS7YuJ": 1
+        },
+        "FoodInfo": {
+          "Carpaccio di Manzo alle Uvette": 1,
+          "Pizza Zucchine e Pancetta": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.991509034467896,
+          "longitude": -117.27483671386435
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -29,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-28T01:26:08.383Z",
+        "updatedAt": "2021-02-28T01:26:08.383Z"
+      },
+      {
+        "objectId": "b2WaG2sHfZ",
+        "UID": "XXCZtfiW86TWXk88h5v8YrNdGm22",
+        "Total": 34,
+        "Status": 1,
+        "FoodInfoObj": {
+          "3lh2tS7YuJ": 1,
+          "N4sJ15TXQp": 1,
+          "ybCIoqL5ih": 1
+        },
+        "FoodInfo": {
+          "Insalata Noci e Arance": 1,
+          "Carpaccio di Manzo alle Uvette": 1,
+          "Pizza Zucchine e Pancetta": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.81791058014537,
+          "longitude": -117.1578549056144
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -40,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-02-28T04:40:26.763Z",
+        "updatedAt": "2021-02-28T04:40:26.763Z"
+      },
+      {
+        "objectId": "6G3n0if06J",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.741411109343495,
+          "longitude": -117.14542424694535
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-02T03:48:32.093Z",
+        "updatedAt": "2021-03-02T03:48:32.093Z"
+      },
+      {
+        "objectId": "Fljoe2R787",
+        "UID": "N38dwUs2njhNrJHwkmK8QLlsqkJ2",
+        "Total": 10,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.782956863877246,
+          "longitude": -117.144657014156
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -8,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-03-02T04:53:18.888Z",
+        "updatedAt": "2021-03-02T04:53:18.888Z"
+      },
+      {
+        "objectId": "4h65EmwpWf",
+        "UID": "eMTxZXCaH2MeDfpeVftCaKut8ZW2",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.75288308301209,
+          "longitude": -117.23248101006367
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-03-03T02:58:38.415Z",
+        "updatedAt": "2021-03-03T02:58:38.415Z"
+      },
+      {
+        "objectId": "M59EM3cFI7",
+        "UID": "XXCZtfiW86TWXk88h5v8YrNdGm22",
+        "Total": 36,
+        "Status": 1,
+        "FoodInfoObj": {
+          "Sly7xb3vv2": 2,
+          "dKmtw2EqyU": 1
+        },
+        "FoodInfo": {
+          "Tortini di Polenta e Bechamel": 1,
+          "Pizza Speck e Crema di Peperoni": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.81790898648749,
+          "longitude": -117.15794691436393
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -36,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-03-10T02:20:01.626Z",
+        "updatedAt": "2021-03-10T02:20:01.626Z"
+      },
+      {
+        "objectId": "QLTLAV34KG",
+        "UID": "hkpeGuQCJSUdi3x8FfcppVSlJo53",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76785707394397,
+          "longitude": -117.08333396592387
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-16T02:22:58.725Z",
+        "updatedAt": "2021-03-16T02:22:58.725Z"
+      },
+      {
+        "objectId": "2Y3BVYkRpw",
+        "UID": "t1FRAMts7JSogepUI5mIcd1Dd9X2",
+        "Total": 5,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-03-17T20:06:44.158Z",
+        "updatedAt": "2021-03-17T20:06:44.158Z"
+      },
+      {
+        "objectId": "JGirSh41tw",
+        "UID": "yI6YRznzakTpCVNyt8SWe0tvj8e2",
+        "Total": 11,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1,
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1,
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.791747602639006,
+          "longitude": -117.23882809677939
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -11,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-03-19T03:31:30.694Z",
+        "updatedAt": "2021-03-19T03:31:30.694Z"
+      },
+      {
+        "objectId": "b5DDG0X9pP",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.74141551767297,
+          "longitude": -117.14541679236122
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-22T02:06:45.150Z",
+        "updatedAt": "2021-03-22T02:06:45.150Z"
+      },
+      {
+        "objectId": "RwlBVBJ7LQ",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.74138240809993,
+          "longitude": -117.14540231257112
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-23T03:39:29.030Z",
+        "updatedAt": "2021-03-23T03:39:29.030Z"
+      },
+      {
+        "objectId": "GhxIgedx9D",
+        "UID": "MFchViwxSBYElFmuHN38oPQSlHK2",
+        "Total": 14,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 2
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 2
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.75849853596923,
+          "longitude": -117.13806243141396
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -26,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-25T19:41:49.353Z",
+        "updatedAt": "2021-03-25T19:41:49.353Z"
+      },
+      {
+        "objectId": "e9mlQmqbBG",
+        "UID": "Zopneqov9FRKsagGw2x4LhLzR6E2",
+        "Total": 24,
+        "Status": 1,
+        "FoodInfoObj": {
+          "PBVplbKWIp": 1,
+          "ZAgFch57MX": 1
+        },
+        "FoodInfo": {
+          "Carciofi, Pancetta e Asiago": 1,
+          "Carpaccio de Zucchini e Mozzarella": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.82694661505973,
+          "longitude": -117.27733893454054
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -14,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-03-27T02:38:51.923Z",
+        "updatedAt": "2021-03-27T02:38:51.923Z"
+      },
+      {
+        "objectId": "Q6yY7j68bd",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box 6 of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80529203827754,
+          "longitude": -117.26260953593744
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -11,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-03-28T21:26:48.335Z",
+        "updatedAt": "2021-03-28T21:26:48.335Z"
+      },
+      {
+        "objectId": "IGipnaVaDW",
+        "UID": "zModBLXH1ceXpliXBtRYB2X0uxj1",
+        "Total": 7,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.758339790575924,
+          "longitude": -117.13195673969716
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-03-30T00:52:09.778Z",
+        "updatedAt": "2021-03-30T00:52:09.778Z"
+      },
+      {
+        "objectId": "3tAHhZAgtf",
+        "UID": "GdYmGYEJYOf3G0gFWS6TABw5NFl2",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.800047234271865,
+          "longitude": -117.23354688821122
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-01T00:33:45.453Z",
+        "updatedAt": "2021-04-01T00:33:45.453Z"
+      },
+      {
+        "objectId": "uU3IQhdcwA",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 8,
+        "Status": 1,
+        "FoodInfoObj": {
+          "w2HRmcjlRy": 4
+        },
+        "FoodInfo": {
+          "2 cheese 3 pico pie": 4
+        },
+        "ObjectID": "XyeHVvRhyE",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.748298102893195,
+          "longitude": -117.15422590987149
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "XyeHVvRhyE"
+        },
+        "TotalSaved": -8,
+        "HotelID": "NgcoJkjVjbhnsBQkZiaQVsXc4PP2",
+        "createdAt": "2021-04-01T03:03:25.160Z",
+        "updatedAt": "2021-04-01T03:03:25.160Z"
+      },
+      {
+        "objectId": "jLQlZBDlF9",
+        "UID": "YqYW8gVXKiUkxb6iSY9wb8ioQBg2",
+        "Total": 12,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 2
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.797337960749026,
+          "longitude": -117.24952857777645
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -12,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-01T03:23:24.074Z",
+        "updatedAt": "2021-04-01T03:23:24.074Z"
+      },
+      {
+        "objectId": "RU1ikobF2t",
+        "UID": "mDHJTyiEAgYI6q6n6gzkC2VM2cA3",
+        "Total": 6,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.78626607868109,
+          "longitude": -117.25338408748243
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-01T03:52:23.389Z",
+        "updatedAt": "2021-04-01T03:52:23.389Z"
+      },
+      {
+        "objectId": "c0hrKTC5mo",
+        "UID": "mDHJTyiEAgYI6q6n6gzkC2VM2cA3",
+        "Total": 14,
+        "Status": 1,
+        "FoodInfoObj": {
+          "ZAgFch57MX": 1
+        },
+        "FoodInfo": {
+          "Carciofi, Pancetta e Asiago": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.796389703713025,
+          "longitude": -117.25542406236386
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -6,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-04-01T04:00:28.214Z",
+        "updatedAt": "2021-04-01T04:00:28.214Z"
+      },
+      {
+        "objectId": "NFOs25oPU1",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80622699766681,
+          "longitude": -117.26031473848712
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-04-01T21:16:27.010Z",
+        "updatedAt": "2021-04-01T21:16:27.010Z"
+      },
+      {
+        "objectId": "CC4vGeKjZE",
+        "UID": "DwcM01VnPUX2r4U07GiEUJhTCmi2",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76784479434422,
+          "longitude": -117.08269312615874
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-04-01T21:26:15.769Z",
+        "updatedAt": "2021-04-01T21:26:15.769Z"
+      },
+      {
+        "objectId": "OLhgCEz8Ev",
+        "UID": "DwcM01VnPUX2r4U07GiEUJhTCmi2",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.7678209550392,
+          "longitude": -117.08273905298418
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-01T21:28:45.393Z",
+        "updatedAt": "2021-04-01T21:28:45.393Z"
+      },
+      {
+        "objectId": "QpphF3WqcV",
+        "UID": "f5eqGPzZYLhz42s2Mys10GB1cs52",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "26rLBh8QNB": 1
+        },
+        "FoodInfo": {
+          "Box 6 of donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.810348885097696,
+          "longitude": -117.248765227002
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -11,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-04-03T18:56:46.059Z",
+        "updatedAt": "2021-04-03T18:56:46.059Z"
+      },
+      {
+        "objectId": "0EIJ36q5CW",
+        "UID": "2WklwOVxooXfVH6OrTLu4VoQxPt1",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.82775353018521,
+          "longitude": -117.13999050241263
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-04-04T03:07:26.543Z",
+        "updatedAt": "2021-04-04T03:07:26.543Z"
+      },
+      {
+        "objectId": "EwsuiNzgRf",
+        "UID": "XjhoazvWwSdxQWgeyGmEu2eEMjv2",
+        "Total": 25.86,
+        "Status": 1,
+        "FoodInfoObj": {
+          "PBVplbKWIp": 1,
+          "ZAgFch57MX": 1
+        },
+        "FoodInfo": {
+          "Carpaccio de Zucchini e Mozzarella": 1,
+          "Pizza Carciofi, Pancetta e Asiago": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.799009957110066,
+          "longitude": -117.23377265055561
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -18,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-04-07T02:36:05.340Z",
+        "updatedAt": "2021-04-07T02:36:05.340Z"
+      },
+      {
+        "objectId": "xig0LihHrL",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "ZAgFch57MX": 1
+        },
+        "FoodInfo": {
+          "Pizza Carciofi, Pancetta e Asiago": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.741445121999625,
+          "longitude": -117.14539936212617
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -10,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-04-07T02:56:16.853Z",
+        "updatedAt": "2021-04-07T02:56:16.853Z"
+      },
+      {
+        "objectId": "KgB6XzG8MQ",
+        "UID": "qN1QoqlAEfWVI2lARu1hOtGYcx22",
+        "Total": 12.93,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 2
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80100574577868,
+          "longitude": -117.24963608141724
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -12,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-14T22:45:18.631Z",
+        "updatedAt": "2021-04-14T22:45:18.631Z"
+      },
+      {
+        "objectId": "exbnzfPbqv",
+        "UID": "t1FRAMts7JSogepUI5mIcd1Dd9X2",
+        "Total": 12.93,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -6,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-04-17T13:31:07.495Z",
+        "updatedAt": "2021-04-17T13:31:07.495Z"
+      },
+      {
+        "objectId": "PzOg8kuQ2k",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.767893169847476,
+          "longitude": -117.08266299275978
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-19T23:44:53.126Z",
+        "updatedAt": "2021-04-19T23:44:53.126Z"
+      },
+      {
+        "objectId": "MmXbSxP24b",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": -0.46,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.767855663458406,
+          "longitude": -117.08268145663469
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-04-20T00:12:27.517Z",
+        "updatedAt": "2021-04-20T00:12:27.517Z"
+      },
+      {
+        "objectId": "c6yU4Z7bvu",
+        "UID": "HqNemfTIQDSllY6yKuFdRoBxkKb2",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.605497496447214,
+          "longitude": -117.05264149428686
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-04-28T01:33:25.312Z",
+        "updatedAt": "2021-04-28T01:33:25.312Z"
+      },
+      {
+        "objectId": "xbm6PP9dl6",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.767764299679506,
+          "longitude": -117.08270615133118
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-04-29T22:25:24.997Z",
+        "updatedAt": "2021-04-29T22:25:24.997Z"
+      },
+      {
+        "objectId": "MLHsLo9miB",
+        "UID": "3sNNj5D3pGgk0hGiy1MCgOrIMR12",
+        "Total": 0,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.74141557041391,
+          "longitude": -117.14544273350161
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-05-11T17:28:05.439Z",
+        "updatedAt": "2021-05-11T17:28:05.439Z"
+      },
+      {
+        "objectId": "FP7pqyZ2AL",
+        "UID": "uFrl1VqYCiRVeMUqFOULd7eZ5lL2",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "nHkg1dtf8B": 3
+        },
+        "FoodInfo": {
+          "cheese, Hawaiian, SD Local": 3
+        },
+        "ObjectID": "XyeHVvRhyE",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80775653793637,
+          "longitude": -117.25936284281413
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "XyeHVvRhyE"
+        },
+        "TotalSaved": -6,
+        "HotelID": "NgcoJkjVjbhnsBQkZiaQVsXc4PP2",
+        "createdAt": "2021-05-12T01:48:16.160Z",
+        "updatedAt": "2021-05-12T01:48:16.160Z"
+      },
+      {
+        "objectId": "XJWgfAmAY5",
+        "UID": "19Vls1yKnkWEMLfyAL4Q44v6QV52",
+        "Total": 0.78,
+        "Status": 1,
+        "FoodInfoObj": {
+          "PBVplbKWIp": 1,
+          "ZAgFch57MX": 0
+        },
+        "FoodInfo": {
+          "Carpaccio de Zucchini e Mozzarella": 1,
+          "Pizza Carciofi, Pancetta e Asiago": 0
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.78164127596232,
+          "longitude": -117.25179838505156
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -8,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-05-15T01:40:06.508Z",
+        "updatedAt": "2021-05-15T01:40:06.508Z"
+      },
+      {
+        "objectId": "A1xXgc3g5r",
+        "UID": "zModBLXH1ceXpliXBtRYB2X0uxj1",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.75831757234248,
+          "longitude": -117.13183113316487
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-05-17T19:22:33.783Z",
+        "updatedAt": "2021-05-17T19:22:33.783Z"
+      },
+      {
+        "objectId": "hwPRLtDRgi",
+        "UID": "zModBLXH1ceXpliXBtRYB2X0uxj1",
+        "Total": 0,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.75839090526798,
+          "longitude": -117.1318712705498
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-05-18T02:17:31.806Z",
+        "updatedAt": "2021-05-18T02:17:31.806Z"
+      },
+      {
+        "objectId": "fiyEulynLi",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 5.39,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76783382231764,
+          "longitude": -117.08271761652986
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-05-18T05:25:19.523Z",
+        "updatedAt": "2021-05-18T05:25:19.523Z"
+      },
+      {
+        "objectId": "Y0czqkCo3z",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 5.39,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.7678204708001,
+          "longitude": -117.08266703563027
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-05-18T05:27:27.188Z",
+        "updatedAt": "2021-05-18T05:27:27.188Z"
+      },
+      {
+        "objectId": "TK4jVJXAGG",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 12.93,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 2
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.741421284924954,
+          "longitude": -117.14537871493732
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -12,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-05-23T01:18:42.249Z",
+        "updatedAt": "2021-05-23T01:18:42.249Z"
+      },
+      {
+        "objectId": "zQBZuzz5XE",
+        "UID": "eaXQewRtUVekRe5czZxjGmZK7013",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.72482193783326,
+          "longitude": -117.15844192191734
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-05-29T00:54:27.039Z",
+        "updatedAt": "2021-05-29T00:54:27.039Z"
+      },
+      {
+        "objectId": "Apq8k7pAza",
+        "UID": "NbJVM5zEW3WuwHF2RLpNuCrJ3AD3",
+        "Total": 12.93,
+        "Status": 1,
+        "FoodInfoObj": {
+          "FR85RxoPZH": 2
+        },
+        "FoodInfo": {
+          "Falafel wrap": 2
+        },
+        "ObjectID": "uXLzNK9LW0",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.74141888471509,
+          "longitude": -117.14539205063762
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "uXLzNK9LW0"
+        },
+        "TotalSaved": -4,
+        "HotelID": "KFNbivjiYKZMghcazPoOhqtdsMe2",
+        "createdAt": "2021-06-03T00:16:08.481Z",
+        "updatedAt": "2021-06-03T00:16:08.481Z"
+      },
+      {
+        "objectId": "NeYrXNDUp7",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "FR85RxoPZH": 1
+        },
+        "FoodInfo": {
+          "Falafel wrap": 1
+        },
+        "ObjectID": "uXLzNK9LW0",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.767852076878924,
+          "longitude": -117.08268281338931
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "uXLzNK9LW0"
+        },
+        "TotalSaved": -4,
+        "HotelID": "KFNbivjiYKZMghcazPoOhqtdsMe2",
+        "createdAt": "2021-06-03T01:09:05.710Z",
+        "updatedAt": "2021-06-03T01:09:05.710Z"
+      },
+      {
+        "objectId": "8JjB8cj3W2",
+        "UID": "Dk3DIo0lntRPTRMoApHKZGCgHkC2",
+        "Total": 5.39,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.79308362867012,
+          "longitude": -117.00303817178775
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-06-03T02:05:32.804Z",
+        "updatedAt": "2021-06-03T02:05:32.804Z"
+      },
+      {
+        "objectId": "7VQqWOhjlH",
+        "UID": "f5eqGPzZYLhz42s2Mys10GB1cs52",
+        "Total": 12.93,
+        "Status": 1,
+        "FoodInfoObj": {
+          "bwbWDXk98N": 1
+        },
+        "FoodInfo": {
+          "Box of 4 Donuts": 1
+        },
+        "ObjectID": "DPddYPwBfj",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.810481240187,
+          "longitude": -117.24870584601643
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "DPddYPwBfj"
+        },
+        "TotalSaved": -4,
+        "HotelID": "Db8CFOv54QRcX5yoGxfifliv0bO2",
+        "createdAt": "2021-06-03T14:14:12.618Z",
+        "updatedAt": "2021-06-03T14:14:12.618Z"
+      },
+      {
+        "objectId": "8Ezy4Xli8j",
+        "UID": "uvB9BcV1RSNkfYEmNxOY2LvzNO73",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 2
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 2
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.831331384398815,
+          "longitude": -117.08321501511809
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -26,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-06-03T20:19:40.361Z",
+        "updatedAt": "2021-06-03T20:19:40.361Z"
+      },
+      {
+        "objectId": "nIXSXeZF6a",
+        "UID": "OqYx4xxH3rgiMVdLm1oIBVUZRR62",
+        "Total": 51.72,
+        "Status": 1,
+        "FoodInfoObj": {
+          "PBVplbKWIp": 2,
+          "ZAgFch57MX": 2
+        },
+        "FoodInfo": {
+          "Carpaccio de Zucchini e Mozzarella": 2,
+          "Pizza Carciofi, Pancetta e Asiago": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80680501370952,
+          "longitude": -117.253723126014
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -36,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-06-05T03:00:37.804Z",
+        "updatedAt": "2021-06-05T03:00:37.804Z"
+      },
+      {
+        "objectId": "iQQeNs1Lwg",
+        "UID": "qxJn8drbMLamBxP3fsaPy8plaPQ2",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "ZAgFch57MX": 1
+        },
+        "FoodInfo": {
+          "Pizza Carciofi, Pancetta e Asiago": 1
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80829542535861,
+          "longitude": -117.25668775889764
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -10,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-06-17T01:30:09.253Z",
+        "updatedAt": "2021-06-17T01:30:09.253Z"
+      },
+      {
+        "objectId": "JorsdLEKgH",
+        "UID": "qc3MpegNKbThcLO4FeEz3NUsYum2",
+        "Total": 10.78,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 2
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.769618618463284,
+          "longitude": -117.06852608342584
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -10,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-06-18T00:45:17.693Z",
+        "updatedAt": "2021-06-18T00:45:17.693Z"
+      },
+      {
+        "objectId": "wRUtdfMHi5",
+        "UID": "zEOJRgWcpNhSw7PiASTajowF3eF3",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.7677884976548,
+          "longitude": -117.08268927873509
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-06-24T23:02:47.493Z",
+        "updatedAt": "2021-06-24T23:02:47.493Z"
+      },
+      {
+        "objectId": "MbLR0UCLR4",
+        "UID": "FwyagWdmxzbKzQjHu1Irn62Cn6v2",
+        "Total": 30.17,
+        "Status": 1,
+        "FoodInfoObj": {
+          "8aKwoz5s8W": 2
+        },
+        "FoodInfo": {
+          "Pizza Parmigiana ": 2
+        },
+        "ObjectID": "dexBCNCfoZ",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80854668219002,
+          "longitude": -117.25402926763732
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "dexBCNCfoZ"
+        },
+        "TotalSaved": -12,
+        "HotelID": "t3b0xaBua6U4PmDwBzy3GE8rF3B3",
+        "createdAt": "2021-06-25T01:49:01.336Z",
+        "updatedAt": "2021-06-25T01:49:01.336Z"
+      },
+      {
+        "objectId": "3EpZgN0BlS",
+        "UID": "3750K6rdvHgoF7ojYWTUCmvMRBh1",
+        "Total": 5.39,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 1
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -5,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-06T16:20:29.242Z",
+        "updatedAt": "2021-07-06T16:20:29.242Z"
+      },
+      {
+        "objectId": "4nZKYSJL5L",
+        "UID": "3p7TBnwvVeakiQAxoQf0QIlVLvG3",
+        "Total": 22.63,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 3,
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1,
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.82996115277785,
+          "longitude": -117.27382988679899
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -21,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-09T01:36:13.189Z",
+        "updatedAt": "2021-07-09T01:36:13.189Z"
+      },
+      {
+        "objectId": "z4ctHpRAKY",
+        "UID": "CAIp544ySlRdaZ7si2DmZKZ4l5F3",
+        "Total": 10.78,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 2
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 2
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.80172566420659,
+          "longitude": -117.25171968351793
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -10,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-10T01:32:40.484Z",
+        "updatedAt": "2021-07-10T01:32:40.484Z"
+      },
+      {
+        "objectId": "3ELlMziHmz",
+        "UID": "t6oI3aL5EUSAD8lmuJYS3oEoTZo1",
+        "Total": 15.09,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 2
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 2
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.749978138874916,
+          "longitude": -117.10597916938781
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -26,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-07-11T02:52:39.773Z",
+        "updatedAt": "2021-07-11T02:52:39.773Z"
+      },
+      {
+        "objectId": "HbGz1buDcE",
+        "UID": "t6oI3aL5EUSAD8lmuJYS3oEoTZo1",
+        "Total": 30.17,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 4
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 4
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.762125673489635,
+          "longitude": -117.06146013946815
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -52,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-07-14T01:25:30.027Z",
+        "updatedAt": "2021-07-14T01:25:30.027Z"
+      },
+      {
+        "objectId": "3t5k206EBA",
+        "UID": "qP3IlyAxXQhzxJ0qZeYlRIZWHHm1",
+        "Total": 6.47,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 1
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 1
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.76786132401199,
+          "longitude": -117.08269997261337
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -6,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-14T23:20:36.492Z",
+        "updatedAt": "2021-07-14T23:20:36.492Z"
+      },
+      {
+        "objectId": "iEaTBwBgbq",
+        "UID": "k9wxuznYMIOhHmFZp3vukEdKX0v1",
+        "Total": 35.56,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 3,
+          "obDhlno6lU": 3
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 3,
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.81792293771432,
+          "longitude": -117.15817722502831
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -33,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-15T01:53:06.253Z",
+        "updatedAt": "2021-07-15T01:53:06.253Z"
+      },
+      {
+        "objectId": "jpiKjuvl6O",
+        "UID": "k9wxuznYMIOhHmFZp3vukEdKX0v1",
+        "Total": 35.56,
+        "Status": 1,
+        "FoodInfoObj": {
+          "obDhlno6lU": 3,
+          "AcBALfLHxf": 3
+        },
+        "FoodInfo": {
+          "Falafel or Spinach Pita": 3,
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 32.81790033752909,
+          "longitude": -117.15798557939061
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -33,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-07-15T01:55:46.023Z",
+        "updatedAt": "2021-07-15T01:55:46.023Z"
+      },
+      {
+        "objectId": "mHEq0E9mKX",
+        "UID": "UjHtVYd6WldxifNceZaqyDP3XVW2",
+        "Total": 7.54,
+        "Status": 1,
+        "FoodInfoObj": {
+          "oHh3QgcP1F": 1
+        },
+        "FoodInfo": {
+          "Mboga Veggie plate": 1
+        },
+        "ObjectID": "0qQLSEBQuK",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "0qQLSEBQuK"
+        },
+        "TotalSaved": -13,
+        "HotelID": "wqSG1362v1PdkFoXTbXOBivNcZj1",
+        "createdAt": "2021-07-22T22:25:58.014Z",
+        "updatedAt": "2021-07-22T22:25:58.014Z"
+      },
+      {
+        "objectId": "TIqESfgFJy",
+        "UID": "t1FRAMts7JSogepUI5mIcd1Dd9X2",
+        "Total": 16.16,
+        "Status": 1,
+        "FoodInfoObj": {
+          "AcBALfLHxf": 3
+        },
+        "FoodInfo": {
+          "Chicken Gyro, Lamb Gyro or Beef Gyro": 3
+        },
+        "ObjectID": "NoQ2TZhdVL",
+        "Location": {
+          "__type": "GeoPoint",
+          "latitude": 0,
+          "longitude": 0
+        },
+        "Food": {
+          "__type": "Pointer",
+          "className": "Hotels",
+          "objectId": "NoQ2TZhdVL"
+        },
+        "TotalSaved": -15,
+        "HotelID": "ouH5eS0jioWhQd7RK6E0tgeS2Q32",
+        "createdAt": "2021-08-14T00:24:01.365Z",
+        "updatedAt": "2021-08-14T00:24:01.365Z"
+      }
+    ]
+    }
