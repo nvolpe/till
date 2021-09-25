@@ -10,11 +10,11 @@ import * as React from 'react';
 
 import Colors from '../constants/Colors';
 import useColorScheme from '../hooks/useColorScheme';
-import TabOneScreen from '../screens/TabOneScreen';
+import { RestaurantListScreen } from '../screens/RestaurantListScreen';
 import RestaurantScreen from '../screens/RestaurantScreen';
 import TabTwoScreen from '../screens/TabTwoScreen';
 import TabThreeScreen from '../screens/TabThreeScreen';
-import { BottomTabParamList, TabOneParamList, TabTwoParamList, TabThreeParamList } from '../types';
+import { BottomTabParamList, TabTwoParamList, TabThreeParamList, RestaurantStackParams } from '../types';
 
 const BottomTab = createBottomTabNavigator<BottomTabParamList>();
 
@@ -58,22 +58,24 @@ function TabBarIcon(props: { name: React.ComponentProps<typeof Ionicons>['name']
 
 // Each tab has its own navigation stack, you can read more about this pattern here:
 // https://reactnavigation.org/docs/tab-based-navigation#a-stack-navigator-for-each-tab
-const TabOneStack = createStackNavigator<TabOneParamList>();
+const RestaurantStack = createStackNavigator<RestaurantStackParams>();
 
 function TabOneNavigator() {
   return (
-    <TabOneStack.Navigator>
-      <TabOneStack.Screen
-        name="TabOneScreen"
-        component={TabOneScreen}
-        options={{ headerTitle: 'Tab One Title' }}
+    <RestaurantStack.Navigator>
+      <RestaurantStack.Screen
+        name="RestaurantListScreen"
+        component={RestaurantListScreen}
+        options={{ headerTitle: 'Till' }}
       />
-      <TabOneStack.Screen
+      <RestaurantStack.Screen
         name="RestaurantScreen"
         component={RestaurantScreen}
-        options={{ headerTitle: 'Restaurant Name Goes here' }}
+        options={({ route }) => ({
+          headerTitle: `${route.params?.title ?? 'Restaurant'}`,
+        })}
       />
-    </TabOneStack.Navigator>
+    </RestaurantStack.Navigator>
   );
 }
 
