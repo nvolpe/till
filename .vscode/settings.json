@@ -1,0 +1,30 @@
+{
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.watcherExclude": {
+        "**/android/app/build/**": true,
+        "**/ios/build/**": true,
+        "**/ios/Pods/**": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/android/app/build/**": true,
+        "**/ios/build/**": true,
+        "**/ios/Pods/**": true
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "typescript.validate.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+}
