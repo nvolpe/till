@@ -1,7 +1,7 @@
 import * as React from 'react'
-import { StyleSheet, FlatList, ListRenderItemInfo } from 'react-native'
+import { StyleSheet, FlatList, ListRenderItemInfo, Alert } from 'react-native'
 import { ActivityIndicator } from 'react-native'
-import { Image } from 'react-native-elements'
+import { Image, Button } from 'react-native-elements'
 import { Text, View } from '../components/Themed'
 import { Restaurant } from '../models/types'
 
@@ -40,24 +40,39 @@ export const RestaurantScreen = ({
           <Text style={styles.title}>{'1:30 - 2:30pm'}</Text>
         </View>
       </View>
-      <View style={styles.header}>
+      <View style={styles.imageContainer}>
         <Image
           source={{
             uri: 'https://firebasestorage.googleapis.com/v0/b/savefood-8d59c.appspot.com/o/%3CFIRDocumentReference:%200x2816cfe40%3E.png?alt=media&token=ea5a5969-7780-441e-958a-a4ff84e42439',
           }}
-          style={{ width: 200, height: 200 }}
+          style={{ width: '100%', height: '100%', resizeMode: 'cover' }}
           transition
         />
       </View>
-      <View style={styles.header}>
-        <View style={styles.body}>
-          <Text style={styles.title}>{'Box of Donuts'}</Text>
-          <Text style={styles.title}>
-            {
-              'Choose 6 of any available donuts when you arraive and create your own delicious box'
-            }
-          </Text>
-        </View>
+      <View style={styles.body}>
+        <Text style={styles.title}>{'Box of Donuts'}</Text>
+        <Text style={styles.title}>
+          {
+            'Choose 6 of any available donuts when you arraive and create your own delicious box'
+          }
+        </Text>
+      </View>
+      <View style={styles.buttonContainer}>
+        <Button
+          title="Plus 1"
+          loading={false}
+          titleStyle={{ color: 'black' }}
+          buttonStyle={styles.counterButton}
+          containerStyle={styles.counterButtonContainer}
+          onPress={() => Alert.alert('Simple Button pressed')}
+        />
+        <Button
+          title="Buy $12.00"
+          loading={false}
+          buttonStyle={styles.buyButton}
+          containerStyle={styles.buyButtonContainer}
+          onPress={() => Alert.alert('Simple Button pressed')}
+        />
       </View>
     </View>
   )
@@ -98,7 +113,7 @@ const styles = StyleSheet.create({
     // marginHorizontal: 0,
   },
   body: {
-    flex: 1,
+    flex: 2,
     backgroundColor: 'pink',
     // alignItems: 'center',
     justifyContent: 'center',
@@ -106,14 +121,39 @@ const styles = StyleSheet.create({
     // marginHorizontal: 0,
   },
   imageContainer: {
-    flex: 1,
-    width: '100%',
-    height: '100%',
+    flex: 2,
+    // width: '100%',
+    // height: '100%',
+    // alignItems: 'center',
     backgroundColor: 'blue',
   },
   image: {
     flex: 1,
     resizeMode: 'contain',
     height: 200,
+  },
+  buttonContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    // alignContent: 'space-between',
+    alignItems: 'center',
+    backgroundColor: 'blue',
+  },
+  counterButtonContainer: {
+    marginHorizontal: 10,
+    flex: 1,
+  },
+  counterButton: {
+    backgroundColor: '#F4F4F4',
+    borderRadius: 20,
+    color: 'black',
+  },
+  buyButtonContainer: {
+    marginHorizontal: 10,
+    flex: 2,
+  },
+  buyButton: {
+    backgroundColor: '#80CA6E',
+    borderRadius: 20,
   },
 })
