@@ -3,33 +3,26 @@
  * https://reactnavigation.org/docs/typescript/
  */
 
-
 export type RootStackParamList = {
-  Root: undefined;
-  NotFound: undefined;
-};
+  Root: undefined
+  NotFound: undefined
+}
 
 export type BottomTabParamList = {
-  TabOne: undefined;
-  TabTwo: undefined;
-  TabThree: undefined;
-};
+  Home: undefined
+  Map: undefined
+  Orders: undefined
+}
 
-// export type TabOneParamList = {
-//   TabOneScreen: undefined;
-//   RestaurantScreen: undefined;
-// };
+export type MapStackParams = {
+  MapScreen: undefined
+}
 
-export type TabTwoParamList = {
-  TabTwoScreen: undefined;
-};
-
-export type TabThreeParamList = {
-  TabThreeScreen: undefined;
-};
+export type OrderStackParams = {
+  OrderScreen: undefined
+}
 
 export type RestaurantStackParams = {
-  RestaurantListScreen: undefined;
-  RestaurantScreen: { title: string } | undefined;
-};
-
+  RestaurantListScreen: undefined
+  RestaurantScreen: { title: string } | undefined
+}
